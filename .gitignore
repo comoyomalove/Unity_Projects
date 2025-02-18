@@ -109,3 +109,7 @@ ObjectPooling copy/Library/ShaderCache/builtin/unity_builtin_extra0000/00/fca126
 /[Bb]uilds/*
 /[Uu]ser[Ss]ettings/*
 **/Assets/AssetStoreTools*
+ObjectPooling copy/Library/SceneVisibilityState.asset
+ObjectPooling copy/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+ObjectPooling copy/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+ObjectPooling copy/Temp/__Backupscenes/0.backup
