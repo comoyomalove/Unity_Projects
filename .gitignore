@@ -102,8 +102,10 @@ ObjectPooling copy/Library/ShaderCache/builtin/unity_builtin_extra0000/00/1846e9
 ObjectPooling copy/Library/ShaderCache/builtin/unity_builtin_extra0000/00/860250a936bc573016ad236b6e6751ee.bin
 ObjectPooling copy/Library/ShaderCache/builtin/unity_builtin_extra0000/00/d187331fc0b3a45eaed12fe856585062.bin
 ObjectPooling copy/Library/ShaderCache/builtin/unity_builtin_extra0000/00/fca126db64b94244140d738120be2e06.bin
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
+/[Ll]ibrary/*
+/[Tt]emp/*
+/[Oo]bj/*
+/[Bb]uild/*
+/[Bb]uilds/*
+/[Uu]ser[Ss]ettings/*
+**/Assets/AssetStoreTools*
